@@ -2,13 +2,18 @@
 
 using namespace std;
 
+class Items;
+
 class Place{
-	enum placeType{ square, river };
+	enum placeType{ square, river,forge,market};
 private:
 	string presentation;
 	placeType placeTypeNow;
 public:
-	Place(const string type);
+	Place();
 	void Look();
-	void Go(const int direction);
+	void Go(const int);
+	void Pray(Items*);
+	void Ask(string , Items* );
+	void Take(string , Items* );
 };

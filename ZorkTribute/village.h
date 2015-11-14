@@ -2,6 +2,8 @@
 using namespace std;
 
 class Place;
+class Player;
+class Items;
 
 class Village{
 public:
@@ -9,4 +11,6 @@ public:
 	void receiveOrder(string order);
 private:
 	Place* placeNow;
+	Player* hero;
+	Items* inventory;
 };
