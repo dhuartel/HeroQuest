@@ -67,13 +67,11 @@
     <ClCompile Include="items.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="place.cpp" />
-    <ClCompile Include="player.cpp" />
     <ClCompile Include="village.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="items.h" />
     <ClInclude Include="place.h" />
-    <ClInclude Include="player.h" />
     <ClInclude Include="village.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
