@@ -1,0 +1,6 @@
+{
+  "name": "Zorktribute",
+  "tagline": "",
+  "body": "<h3>\r\n<a id=\"project\" class=\"anchor\" href=\"#project\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"octicon octicon-link\"></span></a>Project.</h3>\r\n<p>This is a tribute to Zork, the command line driven game, written on C++.</p>\r\n\r\n\r\n<h3>\r\n<a id=\"how-to-play\" class=\"anchor\" href=\"#how-to-play\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"octicon octicon-link\"></span></a>How to play:</h3>\r\n\r\n<p>Command controlled game, only text</p>\r\n<p>The orders MUST be written in lowercase</p>\r\n<p>write help to get a list of the commands</p>\r\n<p>There is a map in the root folder to help you</p>\r\n\r\n\r\n<h3>\r\n<a id=\"author\" class=\"anchor\" href=\"#author\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"octicon octicon-link\"></span></a>Author</h3>\r\n\r\n<p>Daniel Huarte</p>\r\n\r\n<h3>\r\n<a id=\"support-or-contact\" class=\"anchor\" href=\"#support-or-contact\" aria-hidden=\"true\"><span aria-hidden=\"true\" class=\"octicon octicon-link\"></span></a>Support or Contact</h3>\r\n\r\n<p>If you have any doubt/comment, you can contact me at: <a href=\"mailto:dhuartel@gmail.com\">dhuartel@gmail.com</a></p>\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
